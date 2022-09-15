@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a8c87ab-a9d6-4957-af48-8ccc65a1fead" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Stack.java" beforeDir="false" />
-    </list>
+    <list default="true" id="6a8c87ab-a9d6-4957-af48-8ccc65a1fead" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="UC1_Insert_Element" />
+        <entry key="$PROJECT_DIR$" value="UC3_Creating_a_queue" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
