@@ -1,4 +1,5 @@
 package com.bridgelabz;
+
 public class LinkedList<T> {
     Node<T> head;
 
@@ -83,4 +84,3 @@ public class LinkedList<T> {
         System.out.println(node.data);
     }
 }
-
