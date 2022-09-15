@@ -10,7 +10,9 @@ public class QueueRunner {
         queue.enqueue(30);
         queue.enqueue(70);
         queue.print();
-
+        queue.dequeue(56);
+        queue.dequeue(30);
+        queue.dequeue(70);
 
     }
 }
